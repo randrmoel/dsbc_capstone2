@@ -1,0 +1,9 @@
+Final model type: Random Tree Regressor created using 5-fold cross validation
+
+Hyper-parameter = Value
+Bootstrap = True
+Max Depth = 43  
+Max Features = Auto 
+Min Samples Leaf = 1 
+Min Samples Split = 2 
+N Estimators = 134 
